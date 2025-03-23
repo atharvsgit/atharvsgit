@@ -20,7 +20,7 @@ I'm Atharv, a 2nd year ISE student at Ramaiah Institute of Technology
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,react,html,css,javascript,typescript,git,github" />
-    <img src="https://skillicons.dev/icons?i=nodejs,taiwind,express,redux,firebase,nextjs,mysql,vscode,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,tailwind,express,redux,firebase,nextjs,mysql,vscode,vite" /><br>
 </div>
 
 <br/>

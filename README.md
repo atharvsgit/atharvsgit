@@ -34,6 +34,6 @@ I'm Atharv, a second year ISE student at Ramaiah Institute Of Technology
 
 ### 📫 Connect with Me
 - 📧 Email: atharvdixit06@gmail.com
-- 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/dixitatharv)
+- 🔗 [LinkedIn](https://linkedin.com/in/dixitatharv)
 
 

@@ -26,13 +26,15 @@ I'm Atharv, a 2nd year ISE student at Ramaiah Institute of Technology
 <hr/>
 
 ### 📈 GitHub Stats
+
 <div align="center">
-    <p align="center">
-    ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=83atharv&show_icons=true&theme=radical)
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=83atharv&layout=compact&theme=radical)
-    </p>
+    <img src="https://github-readme-stats.vercel.app/api?username=83atharv&show_icons=true&theme=radical" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=83atharv&layout=compact&theme=radical" />
 </div>
----
+
+<br/>
+<hr/>
 
 ### 📫 Connect with Me
 <div align="center"> 
